@@ -1,0 +1,9 @@
+persona,codigo,codigo|10;nombre|2;direccion|3;edad|2,codigo|0;direccion|2
+persona1,codigo,codigo|10;nombre|2;direccion|3;edad|2
+customers,customer_id,customer_id|1;first_name|4;last_name|5;email|11;address|4;city|5;state|2;zip|5
+orders,order_id,order_id|1;order_date|10;amount|7;customer_id|1
+agenda,codigo,codigo|10;nombre|2;direccion|3;edad|2
+archivo,campo1,campo1|3;campo2|5;campo3|4;campo4|9
+archivoPrueba,codigo,codigo|1;sector|5;nombre|2;casado|4;nacimiento|10
+new,codigo,codigo|3;nombre|2
+newo,codigo,codigo|3;apellido|2
